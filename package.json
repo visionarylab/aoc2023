@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "^14.21.3 || >=16.0.0 || >=18.0.0"
+    "node": >=16.0.0 || >=18.0.0"
   },
   "dependencies": {
     "connect-timeout": "^1.9.0",
